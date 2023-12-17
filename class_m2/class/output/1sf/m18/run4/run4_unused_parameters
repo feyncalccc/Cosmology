@@ -1,0 +1,9 @@
+# List of input/precision parameters passed
+# but not used (just for info)
+#
+attractor_ic_sfdm_1 = yes
+sfdm_parameters_1 = -18., 1.e5 , 1.e-2, 1., 1.e-30
+sfdm_tuning_index_1 = 2
+attractor_ic_sfdm_2 = yes
+sfdm_parameters_2 = -18., 0.0, 1.e-2, 1.e-16, 1.e-30
+sfdm_tuning_index_2 = 2
